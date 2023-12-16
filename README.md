@@ -14,7 +14,7 @@ Display age difference and identify who is older.
 
 ##### You can access the video documentation for the system below.
 
-<a href="[video_embed_code](https://drive.google.com/file/d/1e6xbF-VflsdQAPOghV_iku8kdBZ6FE2K/view?usp=drivesdk)">
+<a href="https://drive.google.com/file/d/1e6xbF-VflsdQAPOghV_iku8kdBZ6FE2K/view?usp=drivesdk">
   <img src="https://github.com/LubnaMBsharat/AgeCalculator/assets/108155549/8fa629c7-6e35-407b-80f3-3ea1ceb4671e" alt="Age Calculator" width="500" height="700">
 </a>
 
