@@ -1,8 +1,23 @@
-# first_project
+# Age Calculator App
+The Age Calculator app is a Flutter project designed to make age calculations fun and easy. This app calculates your age in years, months, weeks, days, hours, and minutes. Additionally, it determines when your next birthday is and allows you to compare ages, displaying the age difference and indicating who is older.
 
-A new Flutter project.
+## Features
+### Age Calculation:
+Calculate your age in years, months, weeks, days, hours, and minutes.
 
-## Getting Started
+### Next Birthday:
+Determine when your next birthday is approaching.
+
+### Age Comparison:
+Compare ages between two individuals.
+Display age difference and identify who is older.
+
+##### You can access the video documentation for the system below.
+[![Age Calculator](https://github.com/LubnaMBsharat/AgeCalculator/assets/108155549/f4cce831-dfc4-4a25-9fa2-46fc78485c95)](https://drive.google.com/file/d/1e6xbF-VflsdQAPOghV_iku8kdBZ6FE2K/view?usp=drivesdk)
+
+
+
+#### Getting Started
 
 This project is a starting point for a Flutter application.
 
